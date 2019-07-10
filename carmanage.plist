@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.bh.newdetial</string>
+                <string>com.moke.car</string>
                 <key>bundle-version</key>
-                <string>1.0.0</string>
+                <string>00.00.0043</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>有钱分</string>
+                <string>车辆调度系统</string>
             </dict>
         </dict>
     </array>
